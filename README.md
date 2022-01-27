@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TaylorAHelms
 - 👀 I’m interested in C++, Machine Learning, and QA testing.
-- 🌱 I’m currently learning Javascript and Ruby on Rails.
+- 🌱 I’m currently learning Javascript and Python.
 - 📫 How to reach me: email helmstaylor9@gmail.com
 
 <!---
